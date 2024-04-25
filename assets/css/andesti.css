@@ -6626,11 +6626,13 @@ table, tbody{
 .services-single__text-box1-inner {
     position: relative;
     display: block;
+    
 }
 
 .services-single__text-box1-text {
     color: rgba(24, 21, 44, 0.9);
     margin: 0;
+    font-size: 1rem;
 }
 
 .services-single__text-box1-list {
